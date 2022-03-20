@@ -1,5 +1,4 @@
-# CS50-2021
-Solutions for Assignments and problems given in this course.
+# CS50-2021 Solutions
 
 Here are all my soloutions ( Submitted and checked ) for the CS50 2021 course.
 Hope you will find them helpful.
